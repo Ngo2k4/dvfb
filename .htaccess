@@ -1,0 +1,103 @@
+RewriteEngine on
+#  co ssl thi bo comment 2 dong duoi
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*) https://%{SERVER_NAME}/$1 [R,L]
+
+#home, login, register, billing, recoverpass, developers
+RewriteRule trang-chu.html index.php
+RewriteRule dang-xuat.html logout.php
+RewriteRule ctv-dang-nhap.html index.php?DS=Login_CTV
+RewriteRule dang-nhap.html index.php?DS=Login
+RewriteRule nap-tien.html index.php?DS=Charge_Money
+RewriteRule dang-ki.html index.php?DS=Register
+RewriteRule quen-mat-khau.html index.php?DS=Recover
+RewriteRule danh-sach-dev.html index.php?DS=List
+
+RewriteRule them-buzz-like.html index.php?DS=Add_Buzz_Like
+RewriteRule buzz-like.html index.php?DS=List_Buzz_Like
+
+RewriteRule them-buzz-cmt.html index.php?DS=Add_Buzz_CMT
+RewriteRule buzz-cmt.html index.php?DS=List_Buzz_CMT
+
+# token handle
+RewriteRule get-token.html index.php?DS=Get_Token
+RewriteRule check-token.html index.php?DS=Check_Token
+RewriteRule them-token.html index.php?DS=Add_Token
+RewriteRule xoa-token.html index.php?DS=Del_Token
+
+# vipid management
+RewriteRule them-vip-cam-xuc.html index.php?DS=Add_VIP_Like
+RewriteRule vip-cam-xuc.html index.php?DS=Manager_VIP_Like
+
+RewriteRule them-vip-binh-luan.html index.php?DS=Add_VIP_CMT
+RewriteRule vip-binh-luan.html index.php?DS=Manager_VIP_CMT
+
+RewriteRule them-vip-chia-se.html index.php?DS=Add_VIP_Share
+RewriteRule vip-chia-se.html index.php?DS=Manager_VIP_Share
+
+RewriteRule them-vip-bot-cam-xuc.html index.php?DS=Add_VIP_Reaction
+RewriteRule vip-bot-cam-xuc.html index.php?DS=Manager_VIP_Reaction
+
+RewriteRule them-sub.html index.php?DS=Add_Sub
+RewriteRule mua-sub.html index.php?DS=Buy_Sub
+RewriteRule sub.html index.php?DS=List_Sub
+
+RewriteRule su-kien.html index.php?DS=Event
+
+RewriteRule xoa-vipid-het-han.html index.php?DS=Del_Expires
+RewriteRule vipid-sap-het-han.html index.php?DS=Expires
+
+
+#gift code
+RewriteRule them-gift-code.html index.php?DS=Add_GiftCode
+RewriteRule list-gift-code.html index.php?DS=Manager_GiftCode
+RewriteRule gift-code.html index.php?DS=GiftCode
+
+# notify
+RewriteRule gui-thong-bao.html index.php?DS=Send_Notify
+RewriteRule thong-bao.html index.php?DS=Notify
+
+#history
+RewriteRule lich-su.html index.php?DS=History
+
+#agency
+RewriteRule them-dai-li.html index.php?DS=Add_Agency
+RewriteRule dai-li.html index.php?DS=List_Agency
+
+#freelancer
+RewriteRule them-ctv.html index.php?DS=Add_CTV
+RewriteRule cong-tac-vien.html index.php?DS=List_CTV
+RewriteRule ctv-vipid-cam-xuc.html index.php?DS=CTV_Like
+RewriteRule ctv-vipid-binh-luan.html index.php?DS=CTV_CMT
+RewriteRule ctv-vipid-chia-se.html index.php?DS=CTV_Share
+RewriteRule ctv-vipid-bot-cam-xuc.html index.php?DS=CTV_Reaction
+
+#member
+RewriteRule thanh-vien.html index.php?DS=List_Member
+
+#transaction
+RewriteRule cong-tien.html index.php?DS=Add_Money
+RewriteRule cap-nhat-tien.html index.php?DS=Change_Money
+RewriteRule chuyen-tien.html index.php?DS=Transfer_Money
+
+#person
+RewriteRule cap-nhat-thong-tin.html index.php?DS=Change_Info
+RewriteRule doi-mat-khau.html index.php?DS=Change_Pass
+
+#token
+
+RewriteRule them-token.html index.php?DS=Add_Token
+RewriteRule xoa-token.html index.php?DS=Del_Token
+
+
+#package
+RewriteRule them-package-cam-xuc.html index.php?DS=Add_Package_Like
+RewriteRule package-cam-xuc.html index.php?DS=List_Package_Like
+RewriteRule them-package-binh-luan.html index.php?DS=Add_Package_CMT
+RewriteRule package-binh-luan.html index.php?DS=List_Package_CMT
+RewriteRule them-package-chia-se.html index.php?DS=Add_Package_Share
+RewriteRule package-chia-se.html index.php?DS=List_Package_Share
+RewriteRule them-package-bot-cam-xuc.html index.php?DS=Add_Package_Reaction
+RewriteRule package-bot-cam-xuc.html index.php?DS=List_Package_Reaction
+
+

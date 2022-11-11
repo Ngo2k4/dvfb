@@ -1,0 +1,25 @@
+[07-Nov-2017 17:14:33 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 75
+[07-Nov-2017 17:14:33 UTC] PHP Notice:  Undefined variable: conn in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 123
+[07-Nov-2017 17:14:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 123
+[07-Nov-2017 17:14:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 124
+[07-Nov-2017 17:14:33 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 142
+[07-Nov-2017 17:14:33 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 142
+[07-Nov-2017 17:15:15 UTC] PHP Notice:  Undefined index: goi in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 30
+[07-Nov-2017 17:15:15 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 34
+[07-Nov-2017 17:15:15 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 36
+[07-Nov-2017 17:15:15 UTC] PHP Notice:  Undefined variable: idctv in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 39
+[07-Nov-2017 17:15:15 UTC] PHP Notice:  Undefined variable: conn in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 40
+[07-Nov-2017 17:15:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 40
+[07-Nov-2017 17:15:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 41
+[07-Nov-2017 17:15:15 UTC] PHP Notice:  Undefined variable: conn in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 43
+[07-Nov-2017 17:15:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 43
+[07-Nov-2017 17:15:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 44
+[07-Nov-2017 17:15:15 UTC] PHP Notice:  Undefined variable: id_like in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 46
+[07-Nov-2017 17:15:15 UTC] PHP Notice:  Undefined variable: conn in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 47
+[07-Nov-2017 17:15:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 47
+[07-Nov-2017 17:15:15 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 75
+[07-Nov-2017 17:15:15 UTC] PHP Notice:  Undefined variable: conn in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 123
+[07-Nov-2017 17:15:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 123
+[07-Nov-2017 17:15:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 124
+[07-Nov-2017 17:15:15 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 142
+[07-Nov-2017 17:15:15 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/Admin/CTV/Like__/extend.php on line 142

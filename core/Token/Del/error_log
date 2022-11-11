@@ -1,0 +1,20 @@
+[26-Apr-2018 13:55:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/twxjvpwh/seedingtdm.com/_config.php on line 2
+[26-Apr-2018 13:55:04 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/twxjvpwh/seedingtdm.com/_config.php on line 2
+[28-Apr-2018 12:11:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/twxjvpwh/seedingtdm.com/core/Token/Del/index.php on line 24
+[28-Apr-2018 12:11:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/twxjvpwh/seedingtdm.com/core/Token/Del/index.php on line 25
+[28-Apr-2018 12:11:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/twxjvpwh/seedingtdm.com/core/Token/Del/index.php on line 26
+[28-Apr-2018 12:11:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/twxjvpwh/seedingtdm.com/core/Token/Del/index.php on line 27
+[28-Apr-2018 12:11:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/twxjvpwh/seedingtdm.com/core/Token/Del/index.php on line 28
+[28-Apr-2018 12:11:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/twxjvpwh/seedingtdm.com/core/Token/Del/index.php on line 29
+[28-Apr-2018 12:11:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/twxjvpwh/seedingtdm.com/core/Token/Del/index.php on line 30
+[28-Apr-2018 12:11:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/twxjvpwh/seedingtdm.com/core/Token/Del/index.php on line 31
+[28-Apr-2018 12:11:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/twxjvpwh/seedingtdm.com/core/Token/Del/index.php on line 16
+[28-Apr-2018 12:11:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/twxjvpwh/seedingtdm.com/core/Token/Del/index.php on line 17
+[28-Apr-2018 12:11:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/twxjvpwh/seedingtdm.com/core/Token/Del/index.php on line 24
+[28-Apr-2018 12:11:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/twxjvpwh/seedingtdm.com/core/Token/Del/index.php on line 25
+[28-Apr-2018 12:11:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/twxjvpwh/seedingtdm.com/core/Token/Del/index.php on line 26
+[28-Apr-2018 12:11:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/twxjvpwh/seedingtdm.com/core/Token/Del/index.php on line 27
+[28-Apr-2018 12:11:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/twxjvpwh/seedingtdm.com/core/Token/Del/index.php on line 28
+[28-Apr-2018 12:11:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/twxjvpwh/seedingtdm.com/core/Token/Del/index.php on line 29
+[28-Apr-2018 12:11:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/twxjvpwh/seedingtdm.com/core/Token/Del/index.php on line 30
+[28-Apr-2018 12:11:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/twxjvpwh/seedingtdm.com/core/Token/Del/index.php on line 31

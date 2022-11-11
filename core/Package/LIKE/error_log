@@ -1,0 +1,16 @@
+[07-Nov-2017 16:17:26 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/Package/LIKE/add.php on line 2
+[07-Nov-2017 16:18:30 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/Package/LIKE/add.php on line 2
+[07-Nov-2017 16:18:57 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/Package/LIKE/add.php on line 2
+[07-Nov-2017 16:18:57 UTC] PHP Notice:  Undefined variable: conn in /home/bestauto/public_html/VIP_System/core/Package/LIKE/add.php on line 10
+[07-Nov-2017 16:18:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bestauto/public_html/VIP_System/core/Package/LIKE/add.php on line 10
+[07-Nov-2017 16:18:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bestauto/public_html/VIP_System/core/Package/LIKE/add.php on line 11
+[07-Nov-2017 16:18:57 UTC] PHP Notice:  Undefined variable: idctv in /home/bestauto/public_html/VIP_System/core/Package/LIKE/add.php on line 24
+[07-Nov-2017 16:18:57 UTC] PHP Notice:  Undefined variable: conn in /home/bestauto/public_html/VIP_System/core/Package/LIKE/add.php on line 27
+[07-Nov-2017 16:18:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bestauto/public_html/VIP_System/core/Package/LIKE/add.php on line 27
+[07-Nov-2017 16:19:14 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/Package/LIKE/list.php on line 2
+[07-Nov-2017 16:19:14 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/Package/LIKE/list.php on line 28
+[07-Nov-2017 16:19:14 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/Package/LIKE/list.php on line 34
+[07-Nov-2017 16:19:14 UTC] PHP Notice:  Undefined variable: idctv in /home/bestauto/public_html/VIP_System/core/Package/LIKE/list.php on line 35
+[07-Nov-2017 16:19:14 UTC] PHP Notice:  Undefined variable: conn in /home/bestauto/public_html/VIP_System/core/Package/LIKE/list.php on line 39
+[07-Nov-2017 16:19:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bestauto/public_html/VIP_System/core/Package/LIKE/list.php on line 39
+[07-Nov-2017 16:19:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bestauto/public_html/VIP_System/core/Package/LIKE/list.php on line 40

@@ -1,0 +1,6 @@
+[26-Apr-2018 06:40:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/twxjvpwh/seedingtdm.com/core/Cron/cx.php on line 7
+[26-Apr-2018 06:40:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/twxjvpwh/seedingtdm.com/core/Cron/cx.php on line 7
+[26-Apr-2018 06:40:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/twxjvpwh/seedingtdm.com/core/Cron/cx.php on line 7
+[26-Apr-2018 06:40:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/twxjvpwh/seedingtdm.com/core/Cron/cx.php on line 7
+[26-Apr-2018 06:40:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/twxjvpwh/seedingtdm.com/core/Cron/cx.php on line 7
+[26-Apr-2018 06:40:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/twxjvpwh/seedingtdm.com/core/Cron/cx.php on line 7

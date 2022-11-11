@@ -1,0 +1,48 @@
+[07-Nov-2017 16:15:13 UTC] PHP Notice:  Undefined variable: conn in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 35
+[07-Nov-2017 16:15:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 35
+[07-Nov-2017 16:15:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 36
+[07-Nov-2017 16:15:13 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 160
+[07-Nov-2017 16:15:13 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 185
+[07-Nov-2017 16:15:13 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 185
+[07-Nov-2017 16:15:13 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 187
+[07-Nov-2017 16:15:13 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 217
+[07-Nov-2017 16:15:13 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 217
+[07-Nov-2017 16:15:13 UTC] PHP Notice:  Undefined variable: conn in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 220
+[07-Nov-2017 16:15:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 220
+[07-Nov-2017 16:15:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 222
+[07-Nov-2017 16:15:13 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 235
+[07-Nov-2017 16:15:13 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 235
+[07-Nov-2017 16:15:13 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 241
+[07-Nov-2017 16:15:13 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 241
+[07-Nov-2017 16:15:20 UTC] PHP Notice:  Undefined variable: conn in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 35
+[07-Nov-2017 16:15:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 35
+[07-Nov-2017 16:15:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 36
+[07-Nov-2017 16:15:20 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 160
+[07-Nov-2017 16:15:20 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 185
+[07-Nov-2017 16:15:20 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 185
+[07-Nov-2017 16:15:20 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 187
+[07-Nov-2017 16:15:20 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 217
+[07-Nov-2017 16:15:20 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 217
+[07-Nov-2017 16:15:20 UTC] PHP Notice:  Undefined variable: conn in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 220
+[07-Nov-2017 16:15:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 220
+[07-Nov-2017 16:15:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 222
+[07-Nov-2017 16:15:20 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 235
+[07-Nov-2017 16:15:20 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 235
+[07-Nov-2017 16:15:20 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 241
+[07-Nov-2017 16:15:20 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 241
+[09-Nov-2017 15:33:23 UTC] PHP Notice:  Undefined variable: conn in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 35
+[09-Nov-2017 15:33:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 35
+[09-Nov-2017 15:33:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 36
+[09-Nov-2017 15:33:23 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 160
+[09-Nov-2017 15:33:23 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 185
+[09-Nov-2017 15:33:23 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 185
+[09-Nov-2017 15:33:23 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 187
+[09-Nov-2017 15:33:23 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 217
+[09-Nov-2017 15:33:23 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 217
+[09-Nov-2017 15:33:23 UTC] PHP Notice:  Undefined variable: conn in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 220
+[09-Nov-2017 15:33:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 220
+[09-Nov-2017 15:33:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 222
+[09-Nov-2017 15:33:23 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 235
+[09-Nov-2017 15:33:23 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 235
+[09-Nov-2017 15:33:23 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 241
+[09-Nov-2017 15:33:23 UTC] PHP Notice:  Undefined variable: rule in /home/bestauto/public_html/VIP_System/core/VIP/LIKE/backup/add.php on line 241

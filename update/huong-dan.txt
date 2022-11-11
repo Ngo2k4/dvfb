@@ -1,0 +1,5 @@
+#Update 2018-04-12
+* Cho file add.php vào core/Admin/CTV
+* Cho file change_info vào person/
+* Cho file register.php vào login/
+* Cho file share.php vào core/Cron
